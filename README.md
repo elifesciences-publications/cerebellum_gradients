@@ -1,3 +1,7 @@
+
+
+### This code is associated with the paper from Guell et al., "Functional gradients of the cerebellum". eLife, 2018. http://dx.doi.org/10.7554/eLife.36652
+
 # cerebellum_gradients
 This is a github repository for the cerebellum gradients project.
 
